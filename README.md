@@ -17,4 +17,4 @@ A sleek and engaging Animated Login Page built with HTML, Tailwind CSS, and Java
 
 🚀 Live Demo & Contributions
 🔗 Live Demo: [Deploy Link]
-📌 Star ⭐ this project & contribute – Fork, enhance, and submit pull requests to improve functionality!g
+📌 Star ⭐ this project & contribute – Fork, enhance, and submit pull requests to improve functionality!
