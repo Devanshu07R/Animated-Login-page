@@ -11,7 +11,7 @@ A sleek and engaging Animated Login Page built with HTML, Tailwind CSS, and Java
 ✅ Lightweight & Fast – Built for performance with no unnecessary dependencies.
 
 🛠️ Tech Stack
-🔹 HTML – For structuring the layout.
+🔹 HTML – For structuring the layout..
 🔹 Tailwind CSS – For a modern and responsive design.
 🔹 JavaScript – Handles animations, form interactions, and toggle effects.
 
